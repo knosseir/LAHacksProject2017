@@ -48,5 +48,7 @@
             android:textColor="#fff"
             android:text="Click me!"
             android:background="#FDC511"
-            android:layout_height="40dp"/>
+            android:layout_height="40dp"
+            android:onClick="chromeCustomTabGoogle" />
+
     </LinearLayout>
